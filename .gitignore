@@ -1,0 +1,4 @@
+dist
+vendor
+local-*
+assets/maps/*.lua
